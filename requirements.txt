@@ -7,3 +7,4 @@ langchain_openai
 streamlit
 tavily-python
 langgraph
+tavily
